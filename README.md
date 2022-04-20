@@ -1,13 +1,18 @@
 # BTempo
-
+![Banner](../assets/screenshots/banner.jpg)
 This app shows the current weather for your location and forecast for the next 24 hours. Created for a coding challenge.
 The api used in this project is [Open Weather Map](https://openweathermap.org/api).
+
 
 ![React Native](https://img.shields.io/static/v1?label=React-Native&message=v0.68.0&color=6D21B4&style=for-the-badge&logo=react)   ![Expo](https://img.shields.io/static/v1?label=Expo&message=v44.0.6&color=EEEEEE&style=for-the-badge&logo=expo)   ![Typescript](https://img.shields.io/static/v1?label=Typescript&message=v4.4.4&color=2184B4&style=for-the-badge&logo=typescript)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p align="center">
+  <img src="../assets/screenshots/ss2.png" width="260" > &nbsp;&nbsp;
+ <img src="../assets/screenshots/ss1.png" width="260" > &nbsp;&nbsp;
+   <img src="../assets/screenshots/ss3.png" width="260" > 
+</p>
 
 ---
 
@@ -95,6 +100,13 @@ Run the mobile application with `yarn ios` or `yarn android`;
 
 - \_mocks: mock data
 - \_tests: app integration tests
+
+
+## UI Study
+
+![UI](../assets/screenshots/ui-pre.jpg)
+
+---
 
 ## License
 
