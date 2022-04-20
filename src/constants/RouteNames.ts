@@ -1,0 +1,5 @@
+export enum RouteNames {
+  LOADER = 'LOADER',
+  WELCOME_SCREEN = 'WELCOME_SCREEN',
+  WEATHER_SCREEN = 'WEATHER_SCREEN',
+}
